@@ -28,10 +28,9 @@ ACHI usb定制
 
 ### 禁用：
 
-快速开机
-
-Intel VT-D
-
-
+基本上默认 bios都是关的
+serial port 可以关
 ### 开启：
-
+基本上默认 bios都是开的
+xmp自己调整
+VT-x要自己开启

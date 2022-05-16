@@ -1,6 +1,6 @@
 # Hackintosh-12600K-MAXSUN-B660M-MS-TERMINATOR
 
-适用于 12600K + B660M终结者 DDR4 黑苹果引导文件
+适用于 12600K + 铭瑄B660M终结者 DDR4 黑苹果引导文件
 
 基于 OpenCore 0.7.9 版本，机型 MacPro 7,1，系统 MacOS 12.3
 
